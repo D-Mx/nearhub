@@ -1,0 +1,6 @@
+framework module Pods_nearhubUITests {
+  umbrella header "Pods-nearhubUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
